@@ -24,6 +24,6 @@ int main(){
    int total;
    total = tolls + parkFee + (miles / mpg) * gasCost;
 
-   printf( "Your daily cost of driving to work is $%d\n", total )
-   return(0)
+   printf( "Your daily cost of driving to work is $%d\n", total );
+   return(0);
 }
